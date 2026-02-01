@@ -247,14 +247,6 @@ Planned future work:
 
 ---
 
-## License
-
-MIT License
-
-This project is free for educational, research, and commercial use.
-
----
-
 ## Author
 
 **Karan Arjun S**  
