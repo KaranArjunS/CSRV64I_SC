@@ -192,6 +192,7 @@ This project is suitable for:
 ---
 
 ## Project Structure
+```text
 CSRV64I_SC/
 ├── rtl/
 │   ├── csrv64i.sv
@@ -211,6 +212,7 @@ CSRV64I_SC/
 │   └── program.hex
 │
 └── README.md
+```
 
 ---
 
