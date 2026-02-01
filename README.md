@@ -192,7 +192,25 @@ This project is suitable for:
 ---
 
 ## Project Structure
-CSRV64I_SC/ ├── rtl/ │   ├── csrv64i.sv │   ├── pc_fetch.sv │   ├── decoder.sv │   ├── regfile.sv │   ├── alu_control.sv │   ├── execute.sv │   ├── mem_unit.sv │   ├── imem.sv │   └── dmem.sv ├── sim/ │   └── tb.cpp ├── program/ │   └── program.hex └── README.md
+CSRV64I_SC/
+├── rtl/
+│   ├── csrv64i.sv
+│   ├── pc_fetch.sv
+│   ├── decoder.sv
+│   ├── regfile.sv
+│   ├── alu_control.sv
+│   ├── execute.sv
+│   ├── mem_unit.sv
+│   ├── imem.sv
+│   └── dmem.sv
+│
+├── sim/
+│   └── tb.cpp
+│
+├── program/
+│   └── program.hex
+│
+└── README.md
 
 ---
 
