@@ -260,7 +260,6 @@ module csrv64i (
     mem_unit mem_unit_inst (
         .addr        (ex_addr),
         .store_data  (ex_store_data),
-        .is_load     (is_load),
         .is_store    (is_store),
         .is_lb       (is_lb),
         .is_lh       (is_lh),
