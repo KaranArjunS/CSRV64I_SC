@@ -73,6 +73,9 @@ The RTL is written to closely resemble textbook datapaths while remaining execut
 | `imem.sv` | Instruction memory (simulation only) |
 | `dmem.sv` | Data memory (simulation only) |
 
+Block Diagram:
+![CSRV64I_SC_BLOCK DIAGRAM](https://github.com/user-attachments/assets/11eb9f21-b9f9-4854-b35d-c5754ed40b72)
+
 ---
 
 ## Instruction Flow
