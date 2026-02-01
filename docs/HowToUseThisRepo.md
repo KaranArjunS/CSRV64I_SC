@@ -31,6 +31,7 @@ verilator --version
 g++ --version
 ```
 ### Repository Structure (Quick Reference)
+```text
 CSRV64I_SC/
 ├── rtl/            # SystemVerilog RTL
 ├── program/        # Program image (program.hex)
@@ -38,7 +39,7 @@ CSRV64I_SC/
 ├── diagrams/       # Block diagram
 ├── docs/           # Architecture documentation
 └── README.md
-
+```
 ## Preparing a Program
 
 The CSRV64I_SC core fetches instructions from a **simulation-only instruction memory** (`imem`), which is initialized using a hexadecimal file.
